@@ -1,4 +1,8 @@
-
+# Note: to use, get into the bikepoints-scratch directory and run the following:
+#  JUST THE FIRST TIME:
+#   $ conda env create -f environment.yml
+#  EACH SUBSEQUENT TIME:
+#   $ conda env update --quiet -f environment.yml ; conda activate bikepoints-scratch ; jupyter notebook
 name: bikepoints-scratch
 dependencies:
 - python=3.8
