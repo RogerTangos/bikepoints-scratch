@@ -1,1 +1,4 @@
 zip_code_cache
+*.DS_Store
+__pycache__/*
+data/*_boston-metro.*
