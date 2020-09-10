@@ -3,3 +3,5 @@ zip_code_cache
 __pycache__/*
 data/*_boston-metro.*
 secret.txt
+.env
+.api_secret
