@@ -5,3 +5,4 @@ data/*_boston-metro.*
 secret.txt
 .env
 .api_secret
+secret.py
