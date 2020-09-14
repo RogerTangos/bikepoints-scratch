@@ -3,6 +3,7 @@
 #   $ conda env create -f environment.yml
 #  EACH SUBSEQUENT TIME:
 #   $ conda env update --quiet -f environment.yml ; conda activate bikepoints-scratch ; jupyter notebook
+# Making script works well
 name: bikepoints-scratch
 dependencies:
 - python=3.8
