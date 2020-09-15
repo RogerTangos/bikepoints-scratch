@@ -6,3 +6,4 @@ secret.txt
 .env
 .api_secret
 secret.py
+.ipynb_checkpoints/07_undirected_subgraph-checkpoint.ipynb
